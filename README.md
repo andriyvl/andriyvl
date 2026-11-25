@@ -1,6 +1,6 @@
 # Andriy Viychuk
 
-Forward Deployed Engineer (Fullstack, Apps and AI). Freelance developer for AI agents, automation and custom software. I work from Italy for small and medium businesses.
+Forward Deployed Engineer (Fullstack, Apps and AI). Freelance developer for AI agents, automation and custom software. I work for small and medium businesses.
 
 What I build:
 - AI agents and workflow automation in TypeScript or Python, with LangGraph or n8n when they fit. Self-hosted, and you get the full source code.
